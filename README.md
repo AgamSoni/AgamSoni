@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hello World 👋, I am Agam!</h1>
+<h3 align="center">A Biomedical Engineering student at the University of Waterloo</h3>
+<img align="right" alt="Coding" width="200"
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcng4dTQ2bzR5ZjBmMTZlMHQyaDA3d3AxdjFnOGw1dzlzaDNuZHZhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/92rwJV2V1SgRZRjQzc/giphy.gif">
 
-<!--
-**AgamSoni/AgamSoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=AgamSoni&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=true"
+        alt="AgamSoni" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as Test Developer in EdTech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **agamsoni.55@gmail.com**
+
+- 💻 <a href="https://www.agamsoni.com"> Agam Soni  
+   </a>
+
+- <p align="left">
+      <img width="20" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+      <a href="https://www.linkedin.com/in/agam-soni/">  Agam Soni  
+      </a>
+  </p>
+
+<img align="center" alt="Coding" width="500"
+    src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif">
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img
+            src="https://skillicons.dev/icons?i=github,git,aws,azure,gcp,javascript,html,css,react,nodejs,java,dotnet,python,postgres,angular,ts,postman,c,cpp,cs,mysql,arduino,clion,vscode,eclipse,dotnet,matlab,php, selenium" />
+    </a>
+</p>

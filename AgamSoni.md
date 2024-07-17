@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I am Agam!</h1>
+<h1 align="center">Hello World 👋, I am Agam!</h1>
 <h3 align="center">A Biomedical Engineering student at the University of Waterloo</h3>
 <img align="right" alt="Coding" width="200"
     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcng4dTQ2bzR5ZjBmMTZlMHQyaDA3d3AxdjFnOGw1dzlzaDNuZHZhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/92rwJV2V1SgRZRjQzc/giphy.gif">
@@ -7,9 +7,12 @@
         src="https://komarev.com/ghpvc/?username=AgamSoni&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=true"
         alt="AgamSoni" /> </p>
 
-- 💻 I’m currently working as Test Developer in EdTech
+- 🔭 I’m currently working as Test Developer in EdTech
 
 - 📫 How to reach me: **agamsoni.55@gmail.com**
+
+- 💻 <a href="https://www.agamsoni.com"> Agam Soni  
+   </a>
 
 - <p align="left">
       <img width="20" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
