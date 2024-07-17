@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **agamsoni.55@gmail.com**
 
-- 💻 <a href="https://www.agamsoni.com"> Agam Soni  
+- 💻 <a href="www.agamsoni.com"> Agam Soni  
    </a>
 
 - <p align="left">
