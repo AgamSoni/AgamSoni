@@ -11,8 +11,8 @@
 
 - 📫 How to reach me: **agamsoni.55@gmail.com**
 
-- 💻 <a href="www.agamsoni.com"> Agam Soni  
-   </a>
+<!-- - 💻 <a href="www.agamsoni.com"> Agam Soni
+   </a> -->
 
 - <p align="left">
       <img width="20" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
