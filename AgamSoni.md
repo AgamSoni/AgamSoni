@@ -5,19 +5,25 @@
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=AgamSoni&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=true"
-        alt="joshuakomonen" /> </p>
+        alt="AgamSoni" /> </p>
 
 - 💻 I’m currently working as Test Developer in EdTech
 
 - 📫 How to reach me: **agamsoni.55@gmail.com**
 
-<img align="center" alt="Coding" width="600"
+- <p align="left">
+      <img width="20" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+      <a href="https://www.linkedin.com/in/agam-soni/">  Agam Soni  
+      </a>
+  </p>
+
+<img align="center" alt="Coding" width="500"
     src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <a href="https://skillicons.dev">
         <img
-            src="https://skillicons.dev/icons?i=github,git,aws,azure,gcp,javascript,html,css,react,nodejs,java,dotnet,python,postgres,angular,ts,postman,c,cpp,cs,mysql" />
+            src="https://skillicons.dev/icons?i=github,git,aws,azure,gcp,javascript,html,css,react,nodejs,java,dotnet,python,postgres,angular,ts,postman,c,cpp,cs,mysql,arduino,clion,vscode,eclipse,dotnet,matlab,php, selenium" />
     </a>
 </p>
