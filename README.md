@@ -7,7 +7,7 @@
         src="https://komarev.com/ghpvc/?username=AgamSoni&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=true"
         alt="AgamSoni" /> </p>
 
-- 🔭 I’m currently working as Test Developer in EdTech
+- 🔭 Looking for Winter/Spring 2025 Internships
 
 - 📫 How to reach me: **agamsoni.55@gmail.com**
 
