@@ -14,7 +14,7 @@
 <!-- - 💻 <a href="https://agamsoni.github.io/"> Agam Soni
    </a> -->
 
-- <p align="left">
+<p align="left">
       <img width="20" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
       <a href="https://www.linkedin.com/in/agam-soni/">  Agam Soni  
       </a>
