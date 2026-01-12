@@ -7,11 +7,11 @@
         src="https://komarev.com/ghpvc/?username=AgamSoni&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=true"
         alt="AgamSoni" /> </p>
 
-- 🔭 Looking for Spring 2025 Internships
+- 🔭 Looking for 2026 New-Grad Roles
 
 - 📫 How to reach me: **agamsoni.55@gmail.com**
 
-<!-- - 💻 <a href="www.agamsoni.com"> Agam Soni
+<!-- - 💻 <a href="https://agamsoni.github.io/"> Agam Soni
    </a> -->
 
 - <p align="left">
