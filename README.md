@@ -25,8 +25,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img
-            src="https://skillicons.dev/icons?i=github,git,aws,azure,gcp,javascript,html,css,react,nodejs,java,dotnet,python,postgres,angular,ts,postman,c,cpp,cs,mysql,arduino,clion,vscode,eclipse,dotnet,matlab,php, selenium" />
-    </a>
+  <img src="https://skillicons.dev/icons?i=github,git,aws,azure,gcp,javascript,html,css,react,nodejs,java,dotnet,python,postgres,angular,ts,postman,c,cpp,cs,mysql,arduino,clion,vscode,eclipse,matlab,php,selenium" />
 </p>
+
